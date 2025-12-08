@@ -1,0 +1,8 @@
+[
+ {"empId":1,"empName":"Alex","email":"Alex@infy.com","jobLoc":"Mysore"},
+ {"empId":2,"empName":"Jack","email":"Jack@infy.com","jobLoc":"Pune"},
+ {"empId":3,"empName":"Ram","email":"Ram@infy.com","jobLoc":"Bangalore"},
+ {"empId":4,"empName":"Mike","email":"Mike@infy.com","jobLoc":"Bangalore"},
+ {"empId":5,"empName":"Raj","email":"Raj@infy.com","jobLoc":"Chennai"},
+ {"empId":6,"empName":"Ria","email":"Ria@infy.com","jobLoc":"Pune"}
+]

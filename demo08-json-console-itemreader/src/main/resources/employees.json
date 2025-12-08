@@ -1,0 +1,6 @@
+[
+ {"empId":1,"empName":"ALEX1","email":"Alex@infy.com","jobLoc":"Mysore"},
+ {"empId":2,"empName":"JACK1","email":"Jack@infy.com","jobLoc":"Pune"},
+ {"empId":3,"empName":"RAM1","email":"Ram@infy.com","jobLoc":"Bangalore"},
+ {"empId":4,"empName":"MIKE","email":"Mike@infy.com","jobLoc":"Bangalore"}
+]

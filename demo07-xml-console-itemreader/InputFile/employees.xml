@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<empId>1001</empId>
+		<empName>Raj</empName>
+		<email>Raj@infy.com</email>
+		<jobLoc>Pune</jobLoc>
+	</employee>
+	<employee>
+		<empId>1002</empId>
+		<empName>Raji</empName>
+		<email>Raji@infy.com</email>
+		<jobLoc>Pune</jobLoc>
+	</employee>
+	<employee>
+		<empId>1003</empId>
+		<empName>John</empName>
+		<email>John@infy.com</email>
+		<jobLoc>Bangalore</jobLoc>
+	</employee>
+	<employee>
+		<empId>1004</empId>
+		<empName>Johny</empName>
+		<email>Johny@infy.com</email>
+		<jobLoc>Bangalore</jobLoc>
+	</employee>
+	<employee>
+		<empId>1005</empId>
+		<empName>Mike</empName>
+		<email>Mike@infy.com</email>
+		<jobLoc>Chennai</jobLoc>
+	</employee>
+</employees>
